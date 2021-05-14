@@ -15,5 +15,5 @@ The 'Hello World' notebook that we used in this course is available on GitHub [h
 * [Exercise 1: House Prices Question](./codes/Exercise_1_House_Prices_Question.ipynb)
 
 ## Colab_Codes
-* [Course 1 - Part 2 - Lesson 2 - Notebook](.\Colab_Codes\Course\ 1\ -\ Part\ 2\ -\ Lesson\ 2\ -\ Notebook.ipynb)
-* [Exercise 1: (Housing Prices)](./Exercises/"Exercise 1 - House Prices/Exercise_1_House_Prices_Question.ipynb")
+* [Course 1 - Part 2 - Lesson 2 - Notebook](./Colab_Codes/Course1-Part2-Lesson2-Notebook.ipynb)
+* [Exercise 1: (Housing Prices)](./Exercises/Exercise1-HousePrices/Exercise_1_House_Prices_Question.ipynb")
