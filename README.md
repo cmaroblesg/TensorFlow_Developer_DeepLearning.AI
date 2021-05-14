@@ -11,4 +11,4 @@ Ready to deploy your models to the world? Learn how to go live with your models 
 Looking to customize and build powerful real-world models for complex scenarios? Check out the TensorFlow: Advanced Techniques Specialization.
 
 # Content:
-* **Course 1: **[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](M1_Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning/README.md)
+* **Course 1: ** [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](./M1_Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning/README.md)
