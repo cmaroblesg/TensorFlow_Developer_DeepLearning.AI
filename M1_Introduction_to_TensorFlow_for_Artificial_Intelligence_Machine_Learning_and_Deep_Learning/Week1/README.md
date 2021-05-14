@@ -11,6 +11,9 @@ Play with a neural network right in the browser at [http://playground.tensorflow
 
 The 'Hello World' notebook that we used in this course is available on GitHub [here](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb).
 
+## [Google Colab](https://colab.research.google.com)
+* [Colab FAQs](https://research.google.com/colaboratory/faq.html)
+
 ## Coding assignment
 * [Exercise 1: House Prices Question](./codes/Exercise_1_House_Prices_Question.ipynb)
 
