@@ -12,6 +12,7 @@ Welcome to week 2 of the course! In week 1 you learned all about how Machine Lea
 * [Course 1 - Part 4 - Lesson 2 - Notebook](./Colab_Codes/Course1-Part4-Lesson2-Notebook.ipynb)
 * [Exercise 2: Handwriting Recognition](./Exercises/Exercise2-HandwritingRecognition/Exercise2-Question.ipynb)
 
+# Readings
 ## The structure of Fashion MNIST data
 Here you saw how the data can be loaded into Python data structures that make it easy to train a neural network. You saw how the image is represented as a 28x28 array of greyscales, and how its label is a number. Using a number is a first step in avoiding bias -- instead of labelling it with words in a specific language and excluding people who don’t speak that language! You can learn more about bias and techniques to avoid it [here](https://developers.google.com/machine-learning/fairness-overview/).
 
