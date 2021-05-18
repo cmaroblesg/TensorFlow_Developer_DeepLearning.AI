@@ -7,11 +7,13 @@ Last week you saw how to improve the results from your deep neural network using
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
 
 ## Coding assignment
-*
+* [Exercise 4: Handling complex images](./codes/Exercise4-Question.ipynb)
 
 ## Colab_Codes
-*
-*
+* [Experiment with the horse or human classifier](./Colab_Codes/Course1-Part8-Lesson2-Notebook.ipynb)
+* [Get hands-on and use validation](./Colab_Codes/Course1-Part8-Lesson3-Notebook.ipynb)
+* [Get Hands-on with compacted images](./Colab_Codes/Course1-Part8-Lesson4-Notebook.ipynb)
+* [](./Exercises/Exercise4-HandlingComplexImages/Exercise4-Question.ipynb)
 
 # Readings
 ## Explore an impactful, real-world solution
