@@ -14,3 +14,4 @@ Good luck as you get started, and I hope you enjoy the course!
 
 ## Content
 * **Week 1:** [A New Programming Paradigm](./Week1/README.md)
+* **Week 2:** [Introduction to Computer Vision](./Week2/README.md)
