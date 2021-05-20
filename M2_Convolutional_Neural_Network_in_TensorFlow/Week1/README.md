@@ -11,3 +11,4 @@ In the first course in this specialization, you had an introduction to TensorFlo
 
 ## Colab_Codes
 * [Course 2 - Part 2 - Lesson 2 - Notebook](./Colab_Codes/Course2-Part2-Lesson2-Notebook.ipynb)
+* [Exercise 1: Cats vs Dogs Question](./Exercises/Exercise5-RealWorldScenarios/Exercise5-Question.ipynb)
