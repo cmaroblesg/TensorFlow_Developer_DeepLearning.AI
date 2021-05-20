@@ -7,7 +7,7 @@ In the first course in this specialization, you had an introduction to TensorFlo
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
 
 ## Coding Assignment
-* [Exercise 1: Cats vs Dogs Question](./code/Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
+* [Exercise 1: Cats vs Dogs Question](./codes/Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
 
 ## Colab_Codes
 * [Course 2 - Part 2 - Lesson 2 - Notebook](./Colab_Codes/Course2-Part2-Lesson2-Notebook.ipynb)
