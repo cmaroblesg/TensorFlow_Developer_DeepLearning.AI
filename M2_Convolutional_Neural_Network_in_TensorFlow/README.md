@@ -21,3 +21,4 @@ Good luck as you get started, and I hope you enjoy the course!
 ## Content
 * **Week 1:** [Exploring a Larger Dataset](./Week1/README.md)
 * **Week 2:** [Augmentation: A technique to avoid overfitting](./Week2/README.md)
+* **Week 3:** [Transfer Learning](./Week3/README.md)
