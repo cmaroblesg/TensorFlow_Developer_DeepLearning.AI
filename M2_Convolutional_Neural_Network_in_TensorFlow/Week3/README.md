@@ -6,6 +6,7 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
 
 ## Coding Assignment
+* [Exercise 3 - Horses vs. humans using Transfer Learning](./codes/Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.ipynb)
 
 ## Colab_Codes
 * [Course 2 - Part 6 - Lesson 3 - Notebook](./Colab_Codes/Course2-Part6-Lesson3-Notebook.ipynb)
