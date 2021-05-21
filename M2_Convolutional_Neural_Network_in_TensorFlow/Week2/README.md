@@ -8,6 +8,10 @@ You've heard the term overfitting a number of times to this point. Overfitting i
 ## Coding Assignment
 * [Exercise 2: Cats vs. Dogs using augmentation](./codes/Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL.ipynb)
 
+## Colab_Codes
+* [Course 2 - Part 4 - Lesson 2 - Notebook: Cats vs Dogs Augmentation](./Colab_Codes/Course2-Part4-Lesson2-Notebook_CatsvDogsAugmentation.ipynb)
+* [Exercise 6: Cats vs. Dogs using augmentation](./Exercises/Exercise6CatsvDogswithAugmentation/Exercise6-Question.ipynb)
+
 ## Readings:
 ### Image Augmentation
 You'll be looking a lot at Image Augmentation this week.\
