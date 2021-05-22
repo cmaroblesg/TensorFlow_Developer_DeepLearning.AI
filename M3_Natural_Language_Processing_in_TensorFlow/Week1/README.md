@@ -6,6 +6,12 @@ The first step in understanding sentiment in text, and in particular when traini
 ## [Google Colab](https://colab.research.google.com)
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
 
+## Colab_Codes
+* [Course 3 - Week 1 - Lesson 1](./TensorFlowInPractice/Course3-NLP/Course3-Week1-Lesson1.ipynb)
+* [Course 3 - Week 1 - Lesson 2](./TensorFlowInPractice/Course3-NLP/Course3-Week1-Lesson2.ipynb)
+* [Course 3 - Week 1 - Lesson 3](./TensorFlowInPractice/Course3-NLP/Course3-Week1-Lesson3.ipynb)
+* [Explore the BBC news archive Question](./TensorFlowInPractice/Course3-NLP/Course3-Week1-Exercise-question.ipynb)
+* [Explore the BBC news archive Answer](./TensorFlowInPractice/Course3-NLP/Course3-Week1-Exercise-answer.ipynb)
 
 ## Readings
 ### News headlines dataset for sarcasm detection
