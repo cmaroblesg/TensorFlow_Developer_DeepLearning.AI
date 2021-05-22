@@ -13,3 +13,5 @@ Good luck as you get started, and I hope you enjoy the course!
 
 ## Content
 * **Week 1:** [Sentiment in text](./Week1/README.md)
+* **Week 2:** [Word Embeddings](./Week2/README.md)
+* **Week 3:** [Word Embeddings](./Week3/README.md)
