@@ -11,7 +11,7 @@ You've come a long way, Congratulations! One more thing to do before we move off
 
 ## Colab_Codes
 * [Course 2 - Part 8 - Lesson 2 - Notebook (Paper Scissors and Rock)](./Colab_Codes/Course2-Part8-Lesson2-Notebook_RockPaperScissors.ipynb)
-* [Exercise 8 - Question](.Exercises/Exercise8-MulticlasswithSigns/Exercise8-Question.ipynb)
+* [Exercise 8 - Question](./Exercises/Exercise8-MulticlasswithSigns/Exercise8-Question.ipynb)
 
 ## Readings
 ### Introducing the Rock-Paper-Scissors dataset
