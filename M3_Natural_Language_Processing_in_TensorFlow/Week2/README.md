@@ -5,6 +5,13 @@ Last week you saw how to use the Tokenizer to prepare your text to be used by a 
 ## [Google Colab](https://colab.research.google.com)
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
 
+## Colab_Codes
+* [Course 3 - Week 2 - Lesson 1](./TensorFlowInPractice/Course3-NLP/Course3-Week2-Lesson1.ipynb)
+* [Course 3 - Week 2 - Lesson 2](./TensorFlowInPractice/Course3-NLP/Course3-Week2-Lesson2.ipynb)
+* [Course 3 - Week 2 - Lesson 3](./TensorFlowInPractice/Course3-NLP/Course3-Week2-Lesson3.ipynb)
+* [Exercise 2- BBC news archive Question](./TensorFlowInPractice/Course3-NLP/Course3-Week2-Exercise-Question.ipynb)
+* [Exercise 2- BBC news archive Answer](./TensorFlowInPractice/Course3-NLP/Course3-Week2-Exercise-Answer.ipynb)
+
 ## Readings
 ### IMDB reviews dataset
 Please find the link to he IMDB reviews dataset [here](http://ai.stanford.edu/~amaas/data/sentiment/).\
@@ -14,4 +21,6 @@ You will find here 50,000 movie reviews which are classified as positive of nega
 Please find [here](https://github.com/tensorflow/datasets/tree/master/docs/catalog) the datasets GitHub url.\
 For more information, please checkout the [TensorFlow datasets documentation](https://www.tensorflow.org/datasets/catalog/overview).
 
-[https://github.com/tensorflow/datasets/tree/master/docs/catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+## Catalogues
+* [https://github.com/tensorflow/datasets/tree/master/docs/catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+* [https://github.com/tensorflow/datasets/blob/master/docs/catalog/imdb_reviews.md](https://github.com/tensorflow/datasets/blob/master/docs/catalog/imdb_reviews.md)
