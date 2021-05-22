@@ -3,6 +3,16 @@
 ## Introduction
 You've come a long way, Congratulations! One more thing to do before we move off of ConvNets to the next module, and that's to go beyond binary classification. Each of the examples you've done so far involved classifying one thing or another -- horse or human, cat or dog. When moving beyond binary into Categorical classification there are some coding considerations you need to take into account. You'll look at them this week!
 
+## [Google Colab](https://colab.research.google.com)
+* [Colab FAQs](https://research.google.com/colaboratory/faq.html)
+
+## Code Assignment
+* [Exercise 4 - Multi-class classifier](./codes/Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
+
+## Colab_Codes
+* [Course 2 - Part 8 - Lesson 2 - Notebook (Paper Scissors and Rock)](./Colab_Codes/Course2-Part8-Lesson2-Notebook_RockPaperScissors.ipynb)
+* [Exercise 8 - Question](.Exercises/Exercise8-MulticlasswithSigns/Exercise8-Question.ipynb)
+
 ## Readings
 ### Introducing the Rock-Paper-Scissors dataset
 #### [http://www.laurencemoroney.com/rock-paper-scissors-dataset/](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)

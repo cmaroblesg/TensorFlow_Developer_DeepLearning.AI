@@ -11,6 +11,7 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 ## Colab_Codes
 * [Course 2 - Part 6 - Lesson 3 - Notebook](./Colab_Codes/Course2-Part6-Lesson3-Notebook.ipynb)
 * [Course 2 - Part 6 - Lesson 3 - Notebook v2](./Colab_Codes/Course2-Part6-Lesson3-Notebook_v2.ipynb)
+* [Exercise 7 - Question](./Exercises/Exercise7-TransferLearning/Exercise7-Question.ipynb)
 
 ## Readings
 ### Start coding!
