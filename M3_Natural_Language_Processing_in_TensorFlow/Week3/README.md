@@ -4,3 +4,10 @@ In the last couple of weeks you looked first at Tokenizing words to get numeric 
 
 ## [Google Colab](https://colab.research.google.com)
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
+
+## Readings
+### Link to Andrew's sequence modeling course
+Here is the [link](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S) to Andrew's course on sequence modeling.
+
+### More info on LSTMs
+Please find here a [link](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay) to more information on LSTMs (Long Short Term Memory cells) by Andrew.
