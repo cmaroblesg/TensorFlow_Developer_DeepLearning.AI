@@ -7,3 +7,6 @@ Hi Learners and welcome to this course on sequences and prediction! In this cour
 
 ## Colab_Codes
 * [S+P Week 1 - Lesson 2](./TensorFlowInPractice/Course4-S+P/S+P_Week_1_Lesson_2.ipynb)
+* [S+P Week 1 - Lesson 3](./TensorFlowInPractice/Course4-S+P/S+P_Week_1_Lesson_3-Notebook.ipynb)
+* [Exercise 1: Create and predict synthetic data Question](./TensorFlowInPractice/Course4-S+P/Week1ExerciseQuestion.ipynb)
+* [Exercise 1: Create and predict synthetic data Answer](./TensorFlowInPractice/Course4-S+P/Week1ExerciseAnswer.ipynb)
