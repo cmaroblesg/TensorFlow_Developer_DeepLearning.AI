@@ -14,3 +14,4 @@ Looking to customize and build powerful real-world models for complex scenarios?
 * **Course 1:** [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](./M1_Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning/README.md)
 * **Course 2:** [Convolutional Neural Networks in TensorFlow](./M2_Convolutional_Neural_Network_in_TensorFlow/README.md)
 * **Course 3:** [Natural Language Processing in TensorFlow](./M3_Natural_Language_Processing_in_TensorFlow/README.md)
+* **Course 4:** [Sequences, Time Series and Prediction](./M4_Sequences_Time_Series_and_Prediction/README.md)
