@@ -14,3 +14,6 @@ Good luck as you get started, and I hope you enjoy the course!
 
 ## Content
 * **Week 1:** [Sequences and Prediction](./Week1/README.md)
+* **Week 2:** [Deep Neural Networks for Time Series](./Week2/README.md)
+* **Week 3:** [Recurrent Neural Networks for Time Series](./Week3/README.md)
+* **Week 4:** [Real-world Time Series Data](./Week4/README.md)
