@@ -4,3 +4,6 @@ Hi Learners and welcome to this course on sequences and prediction! In this cour
 
 ## [Google Colab](https://colab.research.google.com)
 * [Colab FAQs](https://research.google.com/colaboratory/faq.html)
+
+## Colab_Codes
+* [S+P Week 1 - Lesson 2](./TensorFlowInPractice/Course4-S+P/S+P_Week_1_Lesson_2.ipynb)
